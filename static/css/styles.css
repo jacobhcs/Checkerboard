@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  /* background-color: red; */
+  color: black;
+  margin-top: 40px;
+}
+
+table {
+  margin: 0% auto;
+  margin-top: 40px;
+}
+
+.color1 {
+  background-color: red;
+  width: 50px;
+  height: 50px;
+}
+
+.color2 {
+  background-color: black;
+  width: 50px;
+  height: 50px;
+}
